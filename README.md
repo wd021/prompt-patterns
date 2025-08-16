@@ -674,6 +674,10 @@ graph TD;
 
 - https://github.com/microsoft/prompt-engine, This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).
 
+### Tools
+
+- [God Tier Prompts](https://www.godtierprompts.com) - Discover the best prompts. A community-driven leaderboard where the best prompts rise to the top.
+
 ### 安全问题
 
 - Prompt injection: [Exploring Prompt Injection Attacks](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/)
